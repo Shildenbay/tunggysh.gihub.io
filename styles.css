@@ -113,7 +113,7 @@ main {
     display: flex;
     padding: 0 0 8% 10%;
     align-items: flex-end;
-    background-image: url(../img/unsplash_TnOyyEtrKd0.png);
+    background-image: url(./img/unsplash_TnOyyEtrKd0.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -188,7 +188,7 @@ main {
 }
 
 .massage {
-    background-image: url(../img/RitmStyle\ массаж.png);
+    background-image: url(./img/RitmStyle\ массаж.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -196,7 +196,7 @@ main {
 }
 
 .hydrotherapy {
-    background-image: url(../img/RitmStyle\ гидротерапия.png);
+    background-image: url(./img/RitmStyle\ гидротерапия.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
@@ -226,7 +226,7 @@ main {
 }
 
 .price_text::before {
-    content: url(../img/left\ petal.svg);
+    content: url(./img/left\ petal.svg);
     margin-right: 8px;
 }
 
@@ -238,7 +238,7 @@ main {
 }
 
 .img {
-    background-image: url(../img/thanks.png);
+    background-image: url(./img/thanks.png);
     background-repeat: no-repeat;
     block-size: cover;
     background-position: center;
@@ -259,7 +259,7 @@ main {
 }
 
 .map_img {
-    background-image: url(../img/maps.png);
+    background-image: url(./img/maps.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
